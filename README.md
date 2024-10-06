@@ -1,6 +1,6 @@
 # Real-Time Call Transcription with Twilio and Assembly AI
 
-This project provides a local Flask application that transcribes real-time phone calls made through the Twilio API. It uses Assembly AI for speech-to-text transcription, Ngrok for tunneling, and Flask to handle incoming calls and web socket connections.
+This project provides a local Flask application that transcribes real-time phone calls made through the Twilio API. It uses Assembly AI for speech-to-text transcription, Ngrok for tunneling, and Flask to handle incoming calls and web socket connections. You can do real time transcribing of phone calls on your local host running on PORT 5000(in this case).
 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
