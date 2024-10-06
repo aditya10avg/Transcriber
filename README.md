@@ -76,20 +76,21 @@ The audio payload is received in mu-law format, decoded from base64, and then st
 
 
 ## Environment Variables
+``` bash
 TWILIO_ACCOUNT_SID: Your Twilio account SID.
 TWILIO_API_KEY_SID: Your Twilio API Key SID.
 TWILIO_API_SECRET: Your Twilio API Secret.
 TWILIO_NUMBER: Your Twilio phone number.
 NGROK_AUTHENTICATION: Your Ngrok authentication token.
-
+```
 
 ## Dependencies
-Flask
-Flask-Sock
-Twilio
-Assembly AI
-Ngrok
-python-dotenv
+Flask /n
+Flask-Sock /n
+Twilio /n
+Assembly AI /n
+Ngrok /n
+python-dotenv /n
 
 
 ### Notes:
