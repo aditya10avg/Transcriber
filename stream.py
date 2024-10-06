@@ -54,6 +54,7 @@ def receive_call():
 
 @sock.route(WEBSOCKET_ROUTE)
 def transcription_websocket(ws):
+
     while True:
         data= json.loads(ws.receive())
         match data['event']:
